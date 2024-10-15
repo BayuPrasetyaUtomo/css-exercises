@@ -1,0 +1,35 @@
+/* Any of the method below works and can be used interchangibly */
+
+/* div p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* OR */
+
+/* .container .text {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* OR */
+
+/* div .text {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* OR */
+
+.container p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
